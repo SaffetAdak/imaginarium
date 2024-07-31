@@ -1,0 +1,10 @@
+<svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="10%" style="stop-color:#000;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#130717;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#150f1c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M600,112.77C268.63,112.77,0,65.52,0,7.23V120H1200V7.23C1200,65.52,931.37,112.77,600,112.77Z" class="shape-fill" fill="url(#grad1)" fill-opacity="1"></path>
+</svg>
